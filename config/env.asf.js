@@ -1,10 +1,10 @@
 const path = require('path');
 
 module.exports = {
-    galleryViewPath: '/echarts4/examples/${lang}/view.html?c=',
-    galleryEditorPath: '/echarts4/examples/${lang}/editor.html?c=',
-    handbookPath: '/echarts4/handbook/${lang}/',
-    websitePath: '/echarts4',
+    galleryViewPath: '/echarts5/examples/${lang}/view.html?c=',
+    galleryEditorPath: '/echarts5/examples/${lang}/editor.html?c=',
+    handbookPath: '/echarts5/handbook/${lang}/',
+    websitePath: '/echarts5',
 
     imagePath: 'asset/img/',
     gl: {
